@@ -1,0 +1,6 @@
+# CSV generado para pruebas de volumen (18 MB)
+entrada/ventas_grande.csv
+
+# Archivos que mueve el job al terminar
+procesados/*
+!procesados/.gitkeep
